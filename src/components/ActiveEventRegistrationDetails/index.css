@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.active-reg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.yet-to-register-img {
+  width: 200px;
+  height: 200px;
+}
+.yet-to-register-para {
+  font-size: 20px;
+  font-weight: 400;
+  color: #475569;
+}
+.yet-to-register-btn {
+  background-color: #0967d2;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #f8fafc;
+  padding: 8px;
+}
+.reg-heading {
+  color: #3a4b63;
+  text-align: center;
+}
+.close-reg-para {
+  color: #3a4b63;
+  font-size: 22px;
+}
+.close-reg-heading {
+  text-align: center;
+}

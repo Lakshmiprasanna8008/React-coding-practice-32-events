@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.events-first-part-container {
+  background-color: #3a4b63;
+  width: 90%;
+  min-height: 100vh;
+  padding: 30px;
+}
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.events-container {
+  display: flex;
+}
+.events-second-part-container {
+  background-color: white;
+  width: 430px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.no-event-para {
+  font-size: 24px;
+  color: #64748b;
+  font-weight: 500;
+  text-align: center;
+}
+.events-heading {
+  text-align: left;
+  color: #f8fafc;
+}
